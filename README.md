@@ -1,3 +1,3 @@
 # firstproject
-This is my first Git Repository
-author-Ansari Areeb Ahmed
+This is my first Git Repository.<br>
+Author-Ansari Areeb Ahmed
